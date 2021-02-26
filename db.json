@@ -1,0 +1,36 @@
+{
+    "payments": [
+        {
+            "id": 10,
+            "value": 13.09,
+            "dueDate": "Fri Feb 26 2021 10:12:51 GMT+0100 (Central European Standard Time)",
+            "description": "whatever",
+            "person": "John Snow",
+            "isPaid": true
+        },
+        {
+            "id": 11,
+            "value": 13.12,
+            "dueDate": "Fri Feb 26 2021 10:12:51 GMT+0100 (Central European Standard Time)",
+            "description": "whatever",
+            "person": "John Snow",
+            "isPaid": true
+        },
+        {
+            "id": 12,
+            "value": 44.09,
+            "dueDate": "Fri jan 26 2021 10:12:51 GMT+0100 (Central European Standard Time)",
+            "description": "whatever",
+            "person": "John Snow",
+            "isPaid": true
+        },
+        {
+            "id": 13,
+            "value": 98.09,
+            "dueDate": "Fri Feb 12 2021 10:12:51 GMT+0100 (Central European Standard Time)",
+            "description": "whatever",
+            "person": "John Snow",
+            "isPaid": true
+        }
+    ]
+}
